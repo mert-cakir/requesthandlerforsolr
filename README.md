@@ -1,2 +1,2 @@
-# Hello World Request Handler in Java
+# Hello World Request Handler Solr in Java
 
